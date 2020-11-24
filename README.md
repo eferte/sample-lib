@@ -1,4 +1,10 @@
+
+
 # npm-module-boilerplate
+
+SOURCE: https://github.com/Buzut/npm-module-boilerplate
+
+
 This is an opinionated boilerplate intended to bootstrap development of npm modules.
 
 There is willingly no compilation task. JavaScript developers need to get the habits of compiling for themselves as it will greatly [improve overall performance](https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages) for the end user.
